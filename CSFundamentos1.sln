@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identificadores", "Identifi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exerciciosPropostos", "exerciciosPropostos\exerciciosPropostos.csproj", "{CE2348AB-9F50-4880-BC00-189C269AD309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{1A66730E-EA32-4391-AEC4-9D68C8D877BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{1A66730E-EA32-4391-AEC4-9D68C8D877BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContuacaoDeSaidaDeDados", "ContuacaoDeSaidaDeDados\ContuacaoDeSaidaDeDados.csproj", "{4A4AF1FB-21E1-476B-ABA6-FFC77D955CF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1A66730E-EA32-4391-AEC4-9D68C8D877BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A66730E-EA32-4391-AEC4-9D68C8D877BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A66730E-EA32-4391-AEC4-9D68C8D877BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4AF1FB-21E1-476B-ABA6-FFC77D955CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4AF1FB-21E1-476B-ABA6-FFC77D955CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4AF1FB-21E1-476B-ABA6-FFC77D955CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4AF1FB-21E1-476B-ABA6-FFC77D955CF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
