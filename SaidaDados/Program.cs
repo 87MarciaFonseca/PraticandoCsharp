@@ -1,5 +1,5 @@
 ﻿using System;
-
+//são várias formas de modo de saida de dados
 Console.WriteLine(   "Saída de Dados:Formatação");
 Console.WriteLine( );
 
@@ -26,11 +26,11 @@ Console.WriteLine(nome + " tem " + idade + " anos ");
 Console.Write(nome + " tem " + idade + " anos ");//ambos console imprimir da mesma forma
 Console.WriteLine();
 Console.WriteLine("----------Interpolação------------------");
-//usar a interpolação de strings: $ -> a interpolação {}
+//usar a interpolação de strings: $ -> a interpolação {} é mais moderno
 Console.WriteLine($"{nome} tem {idade}  anos ");
 Console.WriteLine( "--------------------place holders---------------------");
 //uasr place holders: usar {} com numeração com inicio em zero
 Console.WriteLine("{0} tem {1}  anos ",nome ,idade);
 
-
+//continuação na próxima aula!
 Console.ReadLine();
