@@ -30,7 +30,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDetipos2", "ConversaoDeTiposII\ConversaoDetipos2.csproj", "{6FEAA09A-FA7D-4807-8170-65F2918CB55F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoDetipos2", "ConversaoDeTiposII\ConversaoDetipos2.csproj", "{6FEAA09A-FA7D-4807-8170-65F2918CB55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{393040FC-244A-47A7-838C-8F512E5EBA38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{6FEAA09A-FA7D-4807-8170-65F2918CB55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FEAA09A-FA7D-4807-8170-65F2918CB55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FEAA09A-FA7D-4807-8170-65F2918CB55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393040FC-244A-47A7-838C-8F512E5EBA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393040FC-244A-47A7-838C-8F512E5EBA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393040FC-244A-47A7-838C-8F512E5EBA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393040FC-244A-47A7-838C-8F512E5EBA38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
