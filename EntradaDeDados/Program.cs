@@ -18,7 +18,7 @@ Console.WriteLine($"\n A sua idade é {idade} anos ");
 // para int ,irá retornar uma string
 Console.ReadKey(); // esse método só lê um carátere mantém o valor do return static na tela
 
-//Console.WriteLine( "------Ex feito por mim com ajuda do urso----");
+//Console.WriteLine( "------Ex feito por mim ----");
 
 /*try //try catch é usado para tratamento de erros
 {*/
