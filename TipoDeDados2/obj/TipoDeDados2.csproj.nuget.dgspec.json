@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pandinha_\\source\\repos\\CSFundamentos1\\TipoDeDados2\\TipoDeDados2.csproj": {}
+    "C:\\Users\\Marcia\\Source\\Repos\\CursoMacorattiNet\\TipoDeDados2\\TipoDeDados2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pandinha_\\source\\repos\\CSFundamentos1\\TipoDeDados2\\TipoDeDados2.csproj": {
+    "C:\\Users\\Marcia\\Source\\Repos\\CursoMacorattiNet\\TipoDeDados2\\TipoDeDados2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pandinha_\\source\\repos\\CSFundamentos1\\TipoDeDados2\\TipoDeDados2.csproj",
+        "projectUniqueName": "C:\\Users\\Marcia\\Source\\Repos\\CursoMacorattiNet\\TipoDeDados2\\TipoDeDados2.csproj",
         "projectName": "TipoDeDados2",
-        "projectPath": "C:\\Users\\Pandinha_\\source\\repos\\CSFundamentos1\\TipoDeDados2\\TipoDeDados2.csproj",
-        "packagesPath": "C:\\Users\\Pandinha_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pandinha_\\source\\repos\\CSFundamentos1\\TipoDeDados2\\obj\\",
+        "projectPath": "C:\\Users\\Marcia\\Source\\Repos\\CursoMacorattiNet\\TipoDeDados2\\TipoDeDados2.csproj",
+        "packagesPath": "C:\\Users\\Marcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcia\\Source\\Repos\\CursoMacorattiNet\\TipoDeDados2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pandinha_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
