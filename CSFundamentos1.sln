@@ -38,7 +38,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos", "Op
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaTipo1", "InferenciaTipo1\InferenciaTipo1.csproj", "{54AB4A6C-653A-4683-9215-05476D394C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{080EC215-210E-4095-9624-8DD97C822E16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{080EC215-210E-4095-9624-8DD97C822E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{D9BDDD43-AD0D-4116-978E-BDED6A4EE2C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +112,10 @@ Global
 		{080EC215-210E-4095-9624-8DD97C822E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{080EC215-210E-4095-9624-8DD97C822E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{080EC215-210E-4095-9624-8DD97C822E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BDDD43-AD0D-4116-978E-BDED6A4EE2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BDDD43-AD0D-4116-978E-BDED6A4EE2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BDDD43-AD0D-4116-978E-BDED6A4EE2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BDDD43-AD0D-4116-978E-BDED6A4EE2C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
