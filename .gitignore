@@ -1,3 +1,94 @@
-obj/
+# Arquivos de compilação
 bin/
+obj/
+vs/
+# Arquivos de dependência NuGet
+packages/
 
+# Arquivos de usuário e configurações específicas
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache do ReSharper
+_ReSharper*/
+*.suo
+*.user
+*.suo
+*.resharper.user
+*.resharper.suo
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+.vs2019/
+.vs2017/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Arquivos de log e debug
+*.log
+*.vspscc
+*.vssscc
+_build
+msbuild.log
+msbuild.err
+
+# Pasta do Rider
+.idea/
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Pasta de cache do Visual Studio Code
+.vscode/
+
+# Pasta de cache do Rider
+.idea/
+
+# Arquivos de solução
+*.sln.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos temporários
+*.tmp
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Arquivos de compilação de C#
+*.dll
+*.exe
+*.pdb
+*.dll.mdb
+*.exe.mdb
+*.xml
+
+# Diretório de resultados de compilação
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+
+# Diretório de resultados de publicação
+[Pp]ublish/
+
+# Logs e cache de depuração
+logs/
+logs/**/*
+*.log
+*.swp
+*.swo
+*~
