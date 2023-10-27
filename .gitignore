@@ -1,7 +1,7 @@
 # Arquivos de compilação
 bin/
 obj/
-vs/
+.vs/
 # Arquivos de dependência NuGet
 packages/
 
