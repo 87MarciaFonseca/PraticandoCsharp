@@ -44,7 +44,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeIncrementoeDecremento", "OperadoresDeIncrementoeDecremento\OperadoresDeIncrementoeDecremento.csproj", "{EA98E304-5E90-451B-AB47-331028927491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{BC2AC389-052B-48E8-A62B-432EDA35C904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{BC2AC389-052B-48E8-A62B-432EDA35C904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{024C58CE-1E15-418A-BED8-2BDB96C4EEA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -128,6 +130,10 @@ Global
 		{BC2AC389-052B-48E8-A62B-432EDA35C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2AC389-052B-48E8-A62B-432EDA35C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2AC389-052B-48E8-A62B-432EDA35C904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024C58CE-1E15-418A-BED8-2BDB96C4EEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024C58CE-1E15-418A-BED8-2BDB96C4EEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024C58CE-1E15-418A-BED8-2BDB96C4EEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024C58CE-1E15-418A-BED8-2BDB96C4EEA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
