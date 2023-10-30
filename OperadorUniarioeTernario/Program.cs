@@ -1,7 +1,7 @@
 ﻿using System.Threading.Channels;
 
 Console.WriteLine( " Operador Uniário e Ternário \n");
-
+/*
 //operador uniário:
 int positivo = 1;
 int resultado1;
@@ -26,6 +26,17 @@ var resultado2 = temp > 27 ? " Quante" : "Normal";//operador condicional ternár
   //avaliar uma das duas expressões booleanas
 //retornar como true ou false
 
-Console.WriteLine( $" O tempo esta  {resultado2}");
+Console.WriteLine( $" O tempo esta  {resultado2}");*/
+
+//operador condicional ternário(?:) - alinhando operações
+Console.WriteLine( " Informe o valor de x");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine( "Informe o valor de y");
+int y = Convert.ToInt32(Console.ReadLine());
+
+string resultado = x > y ? " x é maior que y":
+                   x < y ? " x é menor que y":
+                   x == y ? " x é igual a y " : " Sem resultado";
+Console.WriteLine( resultado);
 
 Console.ReadKey( );
