@@ -68,7 +68,7 @@ Console.WriteLine( $"{letra3} {letra2} {letra1}");*/
 
 //Exercício 07
 
-Console.WriteLine( "Digite um valor para x");
+/*Console.WriteLine( "Digite um valor para x");
 double x = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Digite um valor para y");
 double y = Convert.ToDouble(Console.ReadLine());
@@ -80,5 +80,31 @@ Console.WriteLine( $" valor divisão de {x / y}");
 Console.WriteLine( $" valor exponenciação de {Math.Pow(x ,y)}");
 Console.WriteLine( $" valor módulode {x % y}");
 
+*/
+
+
+//*/Exercício08 
+
+/*int a = 1, b = 12, c = -13;
+double delta, x1, x2;
+
+delta = Math.Pow(b,2) - 4 * a * c ;
+
+ x1 = ((-b) + Math.Sqrt(delta)) / 2 * a;
+ x2 = ((-b) - Math.Sqrt(delta)) / 2 * a;
+Console.WriteLine( "x1 = " + x1);
+Console.WriteLine( "x2 = " + x2);*/
+
+//Exercício 09
+Console.WriteLine( "\n Informe seu nome \t");
+string nome = Console.ReadLine();
+Console.WriteLine( "\n Informe a  sua senha \t");
+int senha = Convert.ToInt32(Console.ReadLine());
+
+var resultado = (nome == "admin"|| nome == " Maria ") && senha == 123? "login  legal": "falhou";
+
+Console.WriteLine( resultado);
+
 
 Console.ReadKey( );
+
