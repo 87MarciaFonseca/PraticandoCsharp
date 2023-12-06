@@ -95,7 +95,7 @@ delta = Math.Pow(b,2) - 4 * a * c ;
 Console.WriteLine( "x1 = " + x1);
 Console.WriteLine( "x2 = " + x2);*/
 
-//Exercício 09
+/*//Exercício 09
 Console.WriteLine( "\n Informe seu nome \t");
 string nome = Console.ReadLine();
 Console.WriteLine( "\n Informe a  sua senha \t");
@@ -103,32 +103,53 @@ int senha = Convert.ToInt32(Console.ReadLine());
 
 var resultado = (nome == "admin"|| nome == " Maria ") && senha == 123? "login  legal": "falhou";
 
-Console.WriteLine( resultado);
+Console.WriteLine( resultado);*/
 
 //Exercicio 10
 
-( v) string? nome; é um exemplo de nullable reference type;
-(v ) para x igual a 0 , Console.WriteLine(x++); imprime o valor 1
-( f) A ordem de precedência dos operadores lógicos é : ! , || e && (NOT, OR e AND)
-(v ) para y igual a 0 , Console.WriteLine(++y); imprime o valor 1
+/*( *//**//*v) string? nome; é um exemplo de nullable reference type;
+(v) para x igual a 0 , Console.WriteLine(x++); imprime o valor 1
+(f) A ordem de precedência dos operadores lógicos é : ! , || e && (NOT, OR e AND)
+(f ) para y igual a 0 , Console.WriteLine(++y); imprime o valor 1
 (v ) (10 % 2 == 0) ? “Par” : “Impar”; Vai retornar “Impar”
-(v ) Para x = 25 e y=5 , a expressão ( y >= x ) && (y <= x); retorna true;
-( ) Os nullable reference types emitem um alerta em tempo de compilação para uso do null
-( ) Para x = 10, o código Console.WriteLine(x+=x); imprime o valor 10;
-( ) Para x = 5, a expressão !(9 >= x) && x <= 7 || x == 5); retorna false;
-( ) O operador ?. permite verificar se um objeto é null e evitar o NullReferenceException
-( ) Qualquer tipo de dado pode ser declarado como anulável com a ajuda do operador "?( ) string? nome; é um exemplo de nullable reference type;
-( ) para x igual a 0 , Console.WriteLine(x++); imprime o valor 1
-( ) A ordem de precedência dos operadores lógicos é : ! , || e && (NOT, OR e AND)
-( ) para y igual a 0 , Console.WriteLine(++y); imprime o valor 1
-( ) (10 % 2 == 0) ? “Par” : “Impar”; Vai retornar “Impar”
-( ) Para x = 25 e y=5 , a expressão ( y >= x ) && (y <= x); retorna true;
-( ) Os nullable reference types emitem um alerta em tempo de compilação para uso do null
-( ) Para x = 10, o código Console.WriteLine(x+=x); imprime o valor 10;
-( ) Para x = 5, a expressão !(9 >= x) && x <= 7 || x == 5); retorna false;
-( ) O operador ?. permite verificar se um objeto é null e evitar o NullReferenceException
-( ) Qualquer tipo de dado pode ser declarado como anulável com a ajuda do operador "?
+(f ) Para x = 25 e y=5 , a expressão ( y >= x ) && (y <= x); retorna true;
+( v) Os nullable reference types emitem um alerta em tempo de compilação para uso do null
+(f ) Para x = 10, o código Console.WriteLine(x+=x); imprime o valor 10;
+(f ) Para x = 5, a expressão !(9 >= x) && x <= 7 || x == 5); retorna false;
+( v) O operador ?. permite verificar se um objeto é null e evitar o NullReferenceException
+( v) Qualquer tipo de dado pode ser declarado como anulável com a ajuda do operador "?( ) string? nome; é um exemplo de nullable reference type;
 
+*/
+
+//exercicios 11
+
+/*Console.Write("\nInforme o valor de x : \t");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.Write("Informe o valor de y : \t");
+int y = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(x % 2 == 0 ? "x é par " : "x não é par");
+Console.WriteLine(y % 2 == 0 ? "y é par " : "y não é par");
+*/
+
+//Exercicios 12
+
+/*Console.Write("Informe o valor de x : \t");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(-6 + x * 5);
+Console.WriteLine((13 - 2) * x);
+Console.WriteLine((x + -2) * (20 / x));
+Console.WriteLine((12 + x) / (x - 4));
+double resultado = 3 * Math.Pow(x, 2) + x + 10;
+double area = Math.PI * Math.Pow(x, 2);
+Console.WriteLine(resultado);
+Console.WriteLine(area);
+*/
+
+//Exercicios 13
+
+/*int y = 5;
+y =  y++ + y + ++y;
+Console.WriteLine(y);*/
 
 Console.ReadKey( );
 
