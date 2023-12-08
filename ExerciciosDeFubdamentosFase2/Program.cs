@@ -1,7 +1,7 @@
 ﻿Console.WriteLine( " Exercícios fase2 \n");
 
 
-//exercício 01:
+/*//exercício 01:
 
 string nome = "Paulo";
 int idade = 17;
@@ -93,7 +93,7 @@ delta = Math.Pow(b,2) - 4 * a * c ;
  x1 = ((-b) + Math.Sqrt(delta)) / 2 * a;
  x2 = ((-b) - Math.Sqrt(delta)) / 2 * a;
 Console.WriteLine( "x1 = " + x1);
-Console.WriteLine( "x2 = " + x2);*/
+Console.WriteLine( "x2 = " + x2);*//*
 
 //Exercício 09
 Console.WriteLine("\n Informe seu nome \t");
@@ -163,7 +163,7 @@ double fahrenheit = (celsius * 9 / 5 + 32);
 Console.WriteLine($"Graus Fahrenheit = {fahrenheit}");
 
 
-//*/Exercicios 14
+//*//*Exercicios 14
 *//*
 var numero = 5;
 Console.WriteLine(numero++);
@@ -174,7 +174,7 @@ Console.WriteLine(numero--);
 numero = 3;
 Console.WriteLine(--numero);*/
 
-
+//*/
 
 Console.ReadKey( );
 
