@@ -20,7 +20,7 @@ if (clienteEspecial)
     Console.WriteLine("Desconto de 10%");
 }
 */
-
+/*
 //Exemplo: Comparar se x e maior ,menor ou igual a y
 Console.WriteLine( "Informe o valor de x \t");
 int x = Convert.ToInt32(Console.ReadLine());
@@ -36,6 +36,28 @@ if (x< y) {
 
     Console.WriteLine("x é maior que y");
         
-   }
+   }*/
+//Exemplo: Comparar se x é maior ,menor ou igual a y
+/*
+Console.WriteLine( "Informe o valor de x\t");
+int x = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine( "\nInforme o valor de y \t");
+int y = Convert.ToInt32(Console.ReadLine());
+if (x > y) {
+
+    Console.WriteLine( "x é maior que y");
+}
+if (x < y) {
+
+    Console.WriteLine( "x é menor que y");
+
+}
+if (x == y) {
+
+    Console.WriteLine( "x é igual a y");
+}
+*/
+
 
 Console.ReadKey( );
