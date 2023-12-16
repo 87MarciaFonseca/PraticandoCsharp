@@ -56,7 +56,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadorUniarioeTernario", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosDeFubdamentosFase2", "ExerciciosDeFubdamentosFase2\ExerciciosDeFubdamentosFase2.csproj", "{A744883C-6569-4F1F-91D6-97014AA3518C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucaoIf", "InstrucaoIf\InstrucaoIf.csproj", "{5EC82983-36FD-496E-AB90-885179231400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoIf", "InstrucaoIf\InstrucaoIf.csproj", "{5EC82983-36FD-496E-AB90-885179231400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucaoIfElse", "..\..\..\source\repos\InstrucaoIfElse\InstrucaoIfElse.csproj", "{8A4E93EB-CA58-4865-AD07-91347BEAFB4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -164,6 +166,10 @@ Global
 		{5EC82983-36FD-496E-AB90-885179231400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EC82983-36FD-496E-AB90-885179231400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EC82983-36FD-496E-AB90-885179231400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4E93EB-CA58-4865-AD07-91347BEAFB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4E93EB-CA58-4865-AD07-91347BEAFB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4E93EB-CA58-4865-AD07-91347BEAFB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4E93EB-CA58-4865-AD07-91347BEAFB4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
