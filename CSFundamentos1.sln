@@ -62,6 +62,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoIfelse", "Instruca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoIfelseif", "iFeLSEiF\InstrucaoIfelseif.csproj", "{A00D675A-475E-4482-BC5A-CAC441A3944C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucaoSwitch", "InstrucaoSwitch\InstrucaoSwitch.csproj", "{B1E0AD22-3D71-41D5-BD00-E62F45322FBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -176,6 +178,10 @@ Global
 		{A00D675A-475E-4482-BC5A-CAC441A3944C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A00D675A-475E-4482-BC5A-CAC441A3944C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A00D675A-475E-4482-BC5A-CAC441A3944C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E0AD22-3D71-41D5-BD00-E62F45322FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E0AD22-3D71-41D5-BD00-E62F45322FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E0AD22-3D71-41D5-BD00-E62F45322FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E0AD22-3D71-41D5-BD00-E62F45322FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
