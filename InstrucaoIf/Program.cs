@@ -10,7 +10,7 @@ if (resposta) // converter para boolean tirando == "S" e deixando só resposta
     Console.WriteLine( "Desconto de 10%");
 
 
-Console.WriteLine( "Fim do processamento");
+Console.WriteLine( "Fim do processament0");
 
 Console.WriteLine( "Cliente Especial (true/false)\t");
 bool clienteEspecial = Convert.ToBoolean(Console.ReadLine());
