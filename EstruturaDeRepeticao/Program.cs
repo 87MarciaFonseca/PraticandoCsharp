@@ -8,7 +8,7 @@ repetir:// esse comando identifica uma label
 
 Console.WriteLine($"i = {i}");
 
-i++;
+i++; //É imortante se atentar ao incremento e ao sinal p/evitar laços infinitos
 
 if ( i <= 10 )
     goto repetir;//comando para repetir,esse processo é laço loop
