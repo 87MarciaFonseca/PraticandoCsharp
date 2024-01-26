@@ -1,4 +1,4 @@
-﻿/*Console.WriteLine("Instrução Switch 2");
+﻿Console.WriteLine("Instrução Switch 2");
 
 //exemplo - Dias dos meses do ano (2022)
 //comando para retornar uma string em minuscula.
@@ -7,17 +7,17 @@ var mes = Console.ReadLine().ToLower();
 
 switch (mes)
 {
-     case "janeiro":
-     case "março":
-     case "maio":
-     case "julho":
-     case "agosto":
-     case "outubro":
-     case "dezembro":
+    case "janeiro":
+    case "março":
+    case "maio":
+    case "julho":
+    case "agosto":
+    case "outubro":
+    case "dezembro":
         Console.WriteLine("Este mês tem 31 dias");
         break;
 
-     case "fevereiro":
+    case "fevereiro":
         Console.WriteLine("Este mês tem 28 ou 29 dias");
         break;
 
@@ -29,7 +29,7 @@ switch (mes)
 
 }
 Console.WriteLine("\n Fim do processamento....");
-Console.ReadKey( );*/
+Console.ReadKey();
 
 //Exemplo:Instrução switch - aninhadas
 Console.WriteLine( " Estrutura Switch-case \n");
