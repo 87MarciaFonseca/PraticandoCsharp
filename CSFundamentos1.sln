@@ -66,9 +66,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoSwitch", "Instruca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoSwitch2", "InstrucaoSwitch2\InstrucaoSwitch2.csproj", "{5FD90D9D-6549-412F-9F0C-5E48CF074FDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeRepeticao", "EstruturaDeRepeticao\EstruturaDeRepeticao.csproj", "{F365A226-1D8F-4593-9FE1-3CB4FBCC641A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDeRepeticao", "EstruturaDeRepeticao\EstruturaDeRepeticao.csproj", "{F365A226-1D8F-4593-9FE1-3CB4FBCC641A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucaoWhile1", "InstrucaoWhile1\InstrucaoWhile1.csproj", "{42C59752-5B5B-436D-9FAD-10C74C9BC1E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoWhile1", "InstrucaoWhile1\InstrucaoWhile1.csproj", "{42C59752-5B5B-436D-9FAD-10C74C9BC1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstruçãoWhile II", "InstruçãoWhile II\InstruçãoWhile II.csproj", "{EF4EF60C-DF08-4DE1-84E5-3C735C5F738A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -200,6 +202,10 @@ Global
 		{42C59752-5B5B-436D-9FAD-10C74C9BC1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C59752-5B5B-436D-9FAD-10C74C9BC1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C59752-5B5B-436D-9FAD-10C74C9BC1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4EF60C-DF08-4DE1-84E5-3C735C5F738A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4EF60C-DF08-4DE1-84E5-3C735C5F738A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4EF60C-DF08-4DE1-84E5-3C735C5F738A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4EF60C-DF08-4DE1-84E5-3C735C5F738A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
