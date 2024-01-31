@@ -72,7 +72,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoWhile1", "Instruca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstruçãoWhile II", "InstruçãoWhile II\InstruçãoWhile II.csproj", "{EF4EF60C-DF08-4DE1-84E5-3C735C5F738A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucaoDowhile", "InstrucaoDowhile\InstrucaoDowhile.csproj", "{605965FC-5798-442D-B599-DF20858F854A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstrucaoDowhile", "InstrucaoDowhile\InstrucaoDowhile.csproj", "{605965FC-5798-442D-B599-DF20858F854A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrucaoFor1", "InstrucaoFor1\InstrucaoFor1.csproj", "{A7392673-D66A-48C4-B65C-9CDB3D91B9E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -212,6 +214,10 @@ Global
 		{605965FC-5798-442D-B599-DF20858F854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{605965FC-5798-442D-B599-DF20858F854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{605965FC-5798-442D-B599-DF20858F854A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7392673-D66A-48C4-B65C-9CDB3D91B9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7392673-D66A-48C4-B65C-9CDB3D91B9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7392673-D66A-48C4-B65C-9CDB3D91B9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7392673-D66A-48C4-B65C-9CDB3D91B9E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
