@@ -22,7 +22,7 @@ for (; ; )
     i++;
 }*/
 
-//Multiplas interações em um loop for
+//Multiplas interações em um loop for.
 
 for (int i = 0,j = 0; i +j <= 20; i++,j++)
 {
